@@ -58,14 +58,14 @@ function Footer() {
               <div className="flex items-center">
                 <Phone className="w-5 h-5 mr-3 text-[#23B573]" />
                 <a href="tel:+1234567890" className="text-gray-400 hover:text-white transition">
-                  +1 (234) 567-890
+                  +91 8247819853
                 </a>
               </div>
               <div className="flex items-start">
                 <MapPin className="w-5 h-5 mr-3 text-[#F7B928] mt-1" />
                 <p className="text-gray-400">
-                  123 Education Street,<br />
-                  Learning City, 12345
+                  Manikonda,<br />
+                  Hyderabad, 500032
                 </p>
               </div>
             </div>
